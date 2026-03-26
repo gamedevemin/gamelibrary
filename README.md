@@ -1,6 +1,5 @@
 # Gamelib Android Project - 1000+ Line Java
 
-<img width="540" height="540" alt="ui gamelib" src="https://github.com/user-attachments/assets/33f9feec-d669-4e3f-b9a3-f256b7f8077b" />
 <img width="1352" height="664" alt="gamelibrary_ui_des" src="https://github.com/user-attachments/assets/d77fe4b4-e6a3-43c0-8107-c29663c0ec7f" />
 
 A robust, native Android application built with over 1,000 lines of Java code, designed to manage and catalog game collections with a structured architecture.
